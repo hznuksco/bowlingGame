@@ -1,6 +1,4 @@
 # bowlingGame
-Bowling Game Kata
-
 Go TDD Bowling Game Kata
 
 The game consists of 10 frames as shown above.  In each frame the player has
